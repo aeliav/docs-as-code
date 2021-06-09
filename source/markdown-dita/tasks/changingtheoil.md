@@ -22,7 +22,7 @@ Once every 6000 kilometers or three months, change the oil in your car.
 
 Changing the oil regularly will help keep the engine in good condition.
 
-1.  To change the oil:
+To change the oil:
 1.  Remove the old oil filter.
 1.  Drain the old oil.
 1.  Recycle the oil and oil filter by taking them to the nearest service station or auto shop.
